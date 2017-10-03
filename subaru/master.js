@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  const vehicleArray = [];
+  var vehicleArray = [];
 
   function Vehicle(
      bodyStyle,
